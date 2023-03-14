@@ -21,6 +21,10 @@ something to the open-source community. Your work means the world! 🌍 ❤️
 -   [usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases.
 -   [Lazygit](https://github.com/xo/usql) - Simple terminal UI for git commands.
 
+## References
+
+-   [Zero to IDE with LazyVim](https://www.youtube.com/watch?v=N93cTbtLCIM)
+
 ## License
 
 This project is open-sourced software licensed under the [MIT license](https://aris.mit-license.org).

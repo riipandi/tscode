@@ -7,3 +7,9 @@ $RECYCLE.BIN/
 
 .env.*
 !.env.example
+
+tt.*
+.tests
+doc/tags
+debug
+*.log
